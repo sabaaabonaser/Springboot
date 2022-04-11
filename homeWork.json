@@ -1,0 +1,19 @@
+[ 
+  { 
+"name":"marena",
+"age":20,
+"city":"kofr kasem"
+},
+
+{
+"name":"sabaa",
+"age":19,
+"city":"jatt"
+},
+
+{
+"name":"mostfa",
+"age":23,
+"city":"zalfa"
+  }
+]
